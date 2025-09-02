@@ -1,0 +1,42 @@
+# Python bytecode
+*.pyc
+*.pyd
+**/__pycache__/
+
+
+# Distribution and packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Environments
+.venv/
+venv/
+env/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.bak
+*.swo
+
+# Test and coverage reports
+.coverage
+.tox/
+htmlcov/
+
+# Logs and databases
+*.log
+*.sqlite3
+db.sqlite3
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Other Project Files
+
+
