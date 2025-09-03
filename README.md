@@ -35,7 +35,7 @@ The magic happens in a few simple steps:
 
 ```bash
 # Use default apps
-python -m bashbrush
+python -m bashbrush.cli
 
 # Or customize which apps to theme
 export BASHBRUSH_APPS="alacritty,kitty,cava"
@@ -43,7 +43,7 @@ python -m bashbrush
 
 # Custom wallpaper directory
 export BASHBRUSH_WALLPAPERS="~/Pictures/Wallpapers"
-python -m bashbrush
+python -m bashbrush.cli
 ```
 
 ## 🎨 The Philosophy
