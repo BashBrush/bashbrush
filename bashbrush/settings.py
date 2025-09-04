@@ -14,6 +14,8 @@ class Paths:
     cava_config: Path
     foot_config: Path
     foot_themes: Path
+    ncspot_config: Path
+    ncspot_themes: Path
     ghostty_config: Path
     ghostty_themes: Path
     kitty_config: Path
@@ -43,4 +45,6 @@ def default_paths() -> Paths:
         kitty_themes=(home / ".config" / "kitty" / "themes").resolve(),
         wezterm_config=(home / ".config" / "wezterm" / "wezterm.lua").resolve(),
         wezterm_colors=(home / ".config" / "wezterm" / "colors").resolve(),
+        ncspot_config=(home / ".config" / "ncspot" / "config").resolve(),
+        ncspot_themes=(home / ".config" / "ncspot" / "themes").resolve(),
     )

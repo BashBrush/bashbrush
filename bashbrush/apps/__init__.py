@@ -8,4 +8,5 @@ DEFAULT_APPS = [
     "bashbrush.apps.ghostty",
     "bashbrush.apps.cava",
     "bashbrush.apps.wezterm",
+    "bashbrush.apps.ncspot",
 ]
