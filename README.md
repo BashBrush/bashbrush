@@ -20,6 +20,7 @@ BashBrush plays nice with your favorite terminal emulators and TUIs:
 - **Ghostty** - The new kid on the block
 - **Cava** - Audio visualizer eye candy
 - **WezTerm** - For the power users
+- **ncspot** - Cause you've got good taste in music
 
 ## 🚀 How it works
 
